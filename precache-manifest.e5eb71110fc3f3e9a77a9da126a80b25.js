@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f948eb35c1c646872e3c17dd0bee5ad1",
+    "revision": "2abc86026711c93d554946d9465c04eb",
     "url": "/HW21-ReactJS.Redux-thunk/index.html"
   },
   {
-    "revision": "1d74580b5df744b8d67e",
+    "revision": "e73aaa0273b4720f4693",
     "url": "/HW21-ReactJS.Redux-thunk/static/css/main.fd1ff3ce.chunk.css"
   },
   {
-    "revision": "c70a6f52b9375f4b858e",
-    "url": "/HW21-ReactJS.Redux-thunk/static/js/2.fc644308.chunk.js"
+    "revision": "f0802529edec97a71144",
+    "url": "/HW21-ReactJS.Redux-thunk/static/js/2.f0c410b5.chunk.js"
   },
   {
     "revision": "0749163b59fbee32225059cb60c18af6",
-    "url": "/HW21-ReactJS.Redux-thunk/static/js/2.fc644308.chunk.js.LICENSE.txt"
+    "url": "/HW21-ReactJS.Redux-thunk/static/js/2.f0c410b5.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "1d74580b5df744b8d67e",
-    "url": "/HW21-ReactJS.Redux-thunk/static/js/main.1c1d05e5.chunk.js"
+    "revision": "e73aaa0273b4720f4693",
+    "url": "/HW21-ReactJS.Redux-thunk/static/js/main.85529e3d.chunk.js"
   },
   {
     "revision": "3ed92c7f6a2837125e8d",
