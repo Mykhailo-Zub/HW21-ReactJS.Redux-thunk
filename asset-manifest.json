@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/HW21-ReactJS.Redux-thunk/static/css/main.fd1ff3ce.chunk.css",
+    "main.js": "/HW21-ReactJS.Redux-thunk/static/js/main.1c1d05e5.chunk.js",
+    "main.js.map": "/HW21-ReactJS.Redux-thunk/static/js/main.1c1d05e5.chunk.js.map",
+    "runtime-main.js": "/HW21-ReactJS.Redux-thunk/static/js/runtime-main.d6179335.js",
+    "runtime-main.js.map": "/HW21-ReactJS.Redux-thunk/static/js/runtime-main.d6179335.js.map",
+    "static/js/2.fc644308.chunk.js": "/HW21-ReactJS.Redux-thunk/static/js/2.fc644308.chunk.js",
+    "static/js/2.fc644308.chunk.js.map": "/HW21-ReactJS.Redux-thunk/static/js/2.fc644308.chunk.js.map",
+    "index.html": "/HW21-ReactJS.Redux-thunk/index.html",
+    "precache-manifest.0eed3e0384d034060714594e3ed0fe5f.js": "/HW21-ReactJS.Redux-thunk/precache-manifest.0eed3e0384d034060714594e3ed0fe5f.js",
+    "service-worker.js": "/HW21-ReactJS.Redux-thunk/service-worker.js",
+    "static/css/main.fd1ff3ce.chunk.css.map": "/HW21-ReactJS.Redux-thunk/static/css/main.fd1ff3ce.chunk.css.map",
+    "static/js/2.fc644308.chunk.js.LICENSE.txt": "/HW21-ReactJS.Redux-thunk/static/js/2.fc644308.chunk.js.LICENSE.txt",
+    "static/media/comment.svg": "/HW21-ReactJS.Redux-thunk/static/media/comment.0002e5f6.svg",
+    "static/media/comment_active.svg": "/HW21-ReactJS.Redux-thunk/static/media/comment_active.e371e0b3.svg",
+    "static/media/confirm.svg": "/HW21-ReactJS.Redux-thunk/static/media/confirm.39726703.svg",
+    "static/media/down-arrow.svg": "/HW21-ReactJS.Redux-thunk/static/media/down-arrow.da333812.svg",
+    "static/media/like.svg": "/HW21-ReactJS.Redux-thunk/static/media/like.12220a22.svg",
+    "static/media/like_active.svg": "/HW21-ReactJS.Redux-thunk/static/media/like_active.f8fb9825.svg",
+    "static/media/share.svg": "/HW21-ReactJS.Redux-thunk/static/media/share.444db246.svg",
+    "static/media/share_active.svg": "/HW21-ReactJS.Redux-thunk/static/media/share_active.abbcc3bb.svg",
+    "static/media/upload.svg": "/HW21-ReactJS.Redux-thunk/static/media/upload.8f047106.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d6179335.js",
+    "static/js/2.fc644308.chunk.js",
+    "static/css/main.fd1ff3ce.chunk.css",
+    "static/js/main.1c1d05e5.chunk.js"
+  ]
+}
