@@ -1,15 +1,11 @@
 import React, { useState } from "react";
 import { connect } from "react-redux";
 import axios from "axios";
-import { Redirect } from "react-router-dom";
 
 import Button from "@material-ui/core/Button";
 import { makeStyles } from "@material-ui/core/styles";
 import SendIcon from "@material-ui/icons/Send";
 import InputLabel from "@material-ui/core/InputLabel";
-import MenuItem from "@material-ui/core/MenuItem";
-import FormControl from "@material-ui/core/FormControl";
-import Select from "@material-ui/core/Select";
 import TextField from "@material-ui/core/TextField";
 
 const useStyles = makeStyles((theme) => ({
